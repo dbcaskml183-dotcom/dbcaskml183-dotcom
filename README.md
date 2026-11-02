@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I’m Lovika
 
-<!--
-**dbcaskml183-dotcom/dbcaskml183-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我喜欢把日常使用 AI 时遇到的问题，做成更顺手的工具。
 
-Here are some ideas to get you started:
+## 正在做 · Prelude
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Prelude 是嵌入 DeepSeek Harness 的提示词辅助插件。
+
+该插件的目标是让每个使用DSH的用户都可以是Prompt工程师。
+它帮助你发现需求中的遗漏、理解提示词方法，并比较原稿与改写稿。
+是否补充、如何修改、最终采用哪一版，都由你决定。
+
+目前正在整理开源版本。
+
+## 我关注的方向
+
+- AI 工具的实际使用体验
+- 提示词与上下文工程
+- 简洁、实用、容易维护的软件
+
+---
+
+Building useful things, one thoughtful improvement at a time.
